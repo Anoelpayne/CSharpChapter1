@@ -1,0 +1,13 @@
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Numeric-Types\bin\Debug\netcoreapp3.1\Numeric-Types.exe
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Numeric-Types\bin\Debug\netcoreapp3.1\Numeric-Types.deps.json
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Numeric-Types\bin\Debug\netcoreapp3.1\Numeric-Types.runtimeconfig.json
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Numeric-Types\bin\Debug\netcoreapp3.1\Numeric-Types.runtimeconfig.dev.json
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Numeric-Types\bin\Debug\netcoreapp3.1\Numeric-Types.dll
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Numeric-Types\bin\Debug\netcoreapp3.1\Numeric-Types.pdb
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Numeric-Types\obj\Debug\netcoreapp3.1\Numeric-Types.csprojAssemblyReference.cache
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Numeric-Types\obj\Debug\netcoreapp3.1\Numeric-Types.AssemblyInfoInputs.cache
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Numeric-Types\obj\Debug\netcoreapp3.1\Numeric-Types.AssemblyInfo.cs
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Numeric-Types\obj\Debug\netcoreapp3.1\Numeric-Types.csproj.CoreCompileInputs.cache
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Numeric-Types\obj\Debug\netcoreapp3.1\Numeric-Types.dll
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Numeric-Types\obj\Debug\netcoreapp3.1\Numeric-Types.pdb
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Numeric-Types\obj\Debug\netcoreapp3.1\Numeric-Types.genruntimeconfig.cache

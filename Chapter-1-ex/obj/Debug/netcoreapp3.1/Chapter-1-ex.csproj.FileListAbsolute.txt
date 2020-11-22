@@ -1,0 +1,13 @@
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Chapter-1-ex\bin\Debug\netcoreapp3.1\Chapter-1-ex.exe
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Chapter-1-ex\bin\Debug\netcoreapp3.1\Chapter-1-ex.deps.json
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Chapter-1-ex\bin\Debug\netcoreapp3.1\Chapter-1-ex.runtimeconfig.json
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Chapter-1-ex\bin\Debug\netcoreapp3.1\Chapter-1-ex.runtimeconfig.dev.json
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Chapter-1-ex\bin\Debug\netcoreapp3.1\Chapter-1-ex.dll
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Chapter-1-ex\bin\Debug\netcoreapp3.1\Chapter-1-ex.pdb
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Chapter-1-ex\obj\Debug\netcoreapp3.1\Chapter-1-ex.csprojAssemblyReference.cache
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Chapter-1-ex\obj\Debug\netcoreapp3.1\Chapter-1-ex.AssemblyInfoInputs.cache
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Chapter-1-ex\obj\Debug\netcoreapp3.1\Chapter-1-ex.AssemblyInfo.cs
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Chapter-1-ex\obj\Debug\netcoreapp3.1\Chapter-1-ex.csproj.CoreCompileInputs.cache
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Chapter-1-ex\obj\Debug\netcoreapp3.1\Chapter-1-ex.dll
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Chapter-1-ex\obj\Debug\netcoreapp3.1\Chapter-1-ex.pdb
+C:\Users\anoel\Documents\LaunchCode\csharp-practice\Chapter-1\Chapter-1-ex\Chapter-1-ex\obj\Debug\netcoreapp3.1\Chapter-1-ex.genruntimeconfig.cache
